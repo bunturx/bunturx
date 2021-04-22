@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi! My Name is Moises 👋
 
+<img src="https://github.com/bunturx/bunturx/blob/main/3-1.jpeg">
 <!--
 **bunturx/bunturx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
